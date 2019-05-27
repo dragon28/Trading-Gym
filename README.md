@@ -1,3 +1,5 @@
+This project was forked from https://github.com/thedimlebowski/Trading-Gym
+
 # Trading Gym
 
 Trading Gym is an open-source project for the development of reinforcement learning algorithms in the context of trading.
